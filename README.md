@@ -1,4 +1,4 @@
-### React Tag Input Component
+### React Tag Input Component by JasonBDev
 
 - Easy to use React component that uses React Hooks such as useState.
 - Uses TailwindCSS for styling.

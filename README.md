@@ -1,7 +1,10 @@
 ### React Tag Input Component
 
 - Easy to use React component that uses React Hooks such as useState.
-- Uses TailwindCSS for styling
+- Uses TailwindCSS for styling.
+- Automatically deletes last tag with Backspace.
+- Each tag has a button to remove the tag.
+- Each tag is its own object with ID and Value.
 
 ```javascript
 import Head from 'next/head'

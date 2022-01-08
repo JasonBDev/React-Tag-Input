@@ -6,6 +6,8 @@
 - Each tag has a button to remove the tag.
 - Each tag is its own object with ID and Value.
 
+https://prnt.sc/26bdn50
+
 ```javascript
 import Head from 'next/head'
 import Image from 'next/image'
